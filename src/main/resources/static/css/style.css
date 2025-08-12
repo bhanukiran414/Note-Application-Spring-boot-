@@ -1,0 +1,12 @@
+body {
+    background: #f8f9fa;
+}
+
+#randomNote {
+    white-space: pre-wrap;
+    font-style: italic;
+}
+
+#message {
+    font-weight: 600;
+}
